@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>607900233696-f3jpt0bqrlusu89emmimu6ujgpq7h68c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607900233696-f3jpt0bqrlusu89emmimu6ujgpq7h68c</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC0BOG6WRCpW3rBwz2g7MbeeDik8l6qdlE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607900233696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>usc.YumsFinalProject</string>
+	<key>PROJECT_ID</key>
+	<string>yums---yanet-eats</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yums---yanet-eats.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607900233696:ios:f566df09025a04fae94585</string>
+</dict>
+</plist>
